@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")]
+<a href="https://www.rishit.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/header_image.png" width="900"></a>
 ### <div align="center">I'm Khazri , 👩‍💻 a frontend developer 🚀</div>  
   
 
