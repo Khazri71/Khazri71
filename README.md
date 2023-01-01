@@ -66,9 +66,9 @@
 
 ## Connect with me  
 <div align="center">
-<img src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" align="center" height="" width="400" />
+<img src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" align="center" height="" width="450" />
 </div>  
-  
+<br>
 
 <div align="center">
 <a href="https://github.com/Khazri71" target="_blank">
