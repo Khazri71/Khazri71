@@ -1,5 +1,6 @@
 ### Hi there 👋
-<a href="https://www.rishit.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/header_image.png" width="900"></a>
+
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 ### <div align="center">I'm Khazri , 👩‍💻 a frontend developer 🚀</div>  
   
 
