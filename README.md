@@ -1,6 +1,5 @@
 ### Hi there 👋
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 ### <div align="center">I'm Khazri , 👩‍💻 a frontend developer 🚀</div>  
   
 
