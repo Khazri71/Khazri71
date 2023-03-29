@@ -1,17 +1,12 @@
 ### Hi there 👋
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-### <div align="center">I'm Khazri , 👩‍💻 a frontend developer 🚀</div>  
+### <div align="center">I'm Khazri , 👩‍💻 a web developer 🚀</div>  
   
 
--  💪I’m currently working on [Many Frontend Projects](https://github.com/Khazri71)  
-  
-
--  ⚡I’m currently learning  PHP and  Laravel   
-  
+-  💪I’m currently working on [Many Projects](https://github.com/Khazri71)  
 
 - ❓ Ask me about anything related to Frontend and related technologies  
-  
 
 - 😘 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
   
