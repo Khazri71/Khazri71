@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Chrome Dino]()
+![Chrome Dino](https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif)
 ### <div align="center">I'm Khazri , 👩‍💻 a web developer 🚀</div>  
   
 
