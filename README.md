@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Chrome Dino](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VwcmdtOWZ3MzR4NHMxY2V1cGVhaThhNHV5cGV2dzkxeng4YXEwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp)
+![Chrome Dino]()
 ### <div align="center">I'm Khazri , 👩‍💻 a web developer 🚀</div>  
   
 
