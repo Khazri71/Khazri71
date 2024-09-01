@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+![Chrome Dino](https://www.oxbridgepersonalstatements.com/wordpress/wp-content/uploads/2021/09/hero-6.svg)
 ### <div align="center">I'm Khazri , 👩‍💻 a web developer 🚀</div>  
   
 
