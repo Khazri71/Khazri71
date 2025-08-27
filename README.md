@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khazri71" alt="khazri71" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack projects**
+- 🔭 I’m currently working on **MERN Stack and Data Science projects **
 
 - 🌱 I’m currently learning **Next.js and Nest.js**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/n. khazri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n. khazri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/n-khazri-332382263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n-khazri-332382263" height="30" width="40" /></a>
 <a href="https://kaggle.com/nkhazri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nkhazri" height="30" width="40" /></a>
 </p>
 
