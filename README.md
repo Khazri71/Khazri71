@@ -12,6 +12,12 @@
   
 
 ### <div align="center">I'm Khazri, a Full-Stack Web Developer👩‍💻and Data Scientist📉📈 from Tunisia</div>  
+ 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Khazri71&&style=flat-square" align="center" />
+</div>  
+
+</br>
   
 
 - 🔭 I’m currently working on [MERN Stack and Data Science projects](https://github.com/Khazri71?tab=repositories)  
@@ -80,6 +86,9 @@
 <a href="https://www.kaggle.com/nkhazri" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:khazrinoura71@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
@@ -91,25 +100,12 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
+## Most Used Languages
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Khazri71&&style=flat-square" align="center" />
-</div>  
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khazri71&layout=compact&theme=default" />
+</div>
+
 
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!--<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>-->
