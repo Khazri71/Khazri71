@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://img.freepik.com/free-vector/female-programmer-working-computer-night_107791-19637.jpg?semt=ais_hybrid&w=740&q=80" alt="MasterHead1" width="390"/>
-    <img src="https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg" alt="MasterHead2" width="390"/>
+    <img src="https://img.freepik.com/free-vector/female-programmer-working-computer-night_107791-19637.jpg?semt=ais_hybrid&w=740&q=80" alt="MasterHead1" width="395"/>
+    <img src="https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg" alt="MasterHead2" width="395"/>
   </a>
 </div>
 
