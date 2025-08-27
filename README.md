@@ -27,7 +27,7 @@
 
      - 📊 **Data science projects** in **Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP)** (with **Kaggle datasets**)
 
-     - 🌱Learning **Next.js** and **Nest.js** to expand my **Full-Stack skills**
+     - 🌱 Learning **Next.js** and **Nest.js** to expand my **Full-Stack skills**
 
   
 - 👯 I’m looking to collaborate on projects involving Full-Stack Web Development and AI/Data Science solutions  
