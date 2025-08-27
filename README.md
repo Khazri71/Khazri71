@@ -12,7 +12,8 @@
   
 
 ### <div align="center">I'm Khazri, a Full-Stack Web Developer👩‍💻and Data Scientist📉📈 from Tunisia</div>  
- 
+ </br>
+  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Khazri71&&style=flat-square" align="center" />
 </div>  
