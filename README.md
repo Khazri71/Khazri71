@@ -20,13 +20,16 @@
 
 </br>
   
+<!--[MERN Stack and Data Science projects](https://github.com/Khazri71?tab=repositories)-->
+- 🔭 I’m currently working on : 
+      
+     - 💻 **Web development** projects using the **MERN Stack**
 
-- 🔭 I’m currently working on [MERN Stack and Data Science projects](https://github.com/Khazri71?tab=repositories)  
+     - 📊 **Data science projects** in **Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP)** (with **Kaggle datasets**)
+
+     - 🌱Learning **Next.js** and **Nest.js** to expand my **Full-Stack skills**
+
   
-
-- 🌱 I’m currently learning Next.js and Nest.js  
-  
-
 - 👯 I’m looking to collaborate on projects involving Full-Stack Web Development and AI/Data Science solutions  
   
 
