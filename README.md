@@ -11,7 +11,7 @@
 </div>  
   
 
-### <div align="center">I'm Khazri, a Full-Stack Web Developer👩‍💻and Data Scientist📉📈 from Tunisia</div>  
+### <div align="center">I'm Khazri, a Full-Stack Web Developer👩‍💻📉 from Tunisia</div>  
  </br>
   
 <div align="center">
